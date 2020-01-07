@@ -9,4 +9,5 @@ https://crwn-clothing-available.herokuapp.com/
 
 <img width="1279" alt="landing-screenshot" src="https://user-images.githubusercontent.com/59174894/71780837-ab783280-2fc7-11ea-9282-89a62974a05c.png">
 
+I coded this app by following/using React course of Andrei Neagoie.
 
